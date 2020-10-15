@@ -21,7 +21,7 @@ public class PlayerJump : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Mathf.Abs(myBody.velocity.y) == 0) {
+        if (Mathf.Abs(myBody.velocity.y) == 0) {
             canJump = true;
         }
     }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2765736039133934057}
   - component: {fileID: 8530033099908839934}
   - component: {fileID: 4545097473492526179}
+  - component: {fileID: 8974365830242683913}
   m_Layer: 0
   m_Name: Obstacle 3
   m_TagString: Obstacle
@@ -145,3 +146,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -3
+--- !u!114 &8974365830242683913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8618712931460364949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c57cba506ec7ed40b2874fc58c8660c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
